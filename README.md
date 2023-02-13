@@ -11,3 +11,5 @@
 ![alt Document](https://github.com/Simpe93/icons/blob/main/icons/document.svg?raw=true)
 ![alt Printer](https://github.com/Simpe93/icons/blob/main/icons/printer.svg?raw=true)
 ![alt Patch](https://github.com/Simpe93/icons/blob/main/icons/patch.svg?raw=true)
+![alt Classification](https://github.com/Simpe93/icons/blob/main/icons/classification.svg?raw=true)
+![alt Scale](https://github.com/Simpe93/icons/blob/main/icons/scale.svg?raw=true)
