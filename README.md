@@ -8,4 +8,6 @@
 ![alt System Monitor](https://github.com/Simpe93/icons/blob/main/icons/system_monitor.svg?raw=true)
 ![alt Usbguard](https://github.com/Simpe93/icons/blob/main/icons/usbguard.svg?raw=true)
 ![alt User Settings](https://github.com/Simpe93/icons/blob/main/icons/user_settings.svg?raw=true)
-
+![alt System Monitor](https://github.com/Simpe93/icons/blob/main/icons/document.svg?raw=true)
+![alt Usbguard](https://github.com/Simpe93/icons/blob/main/icons/printer.svg?raw=true)
+![alt User Settings](https://github.com/Simpe93/icons/blob/main/icons/patch.svg?raw=true)
