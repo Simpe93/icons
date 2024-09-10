@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.9 16.9" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#444" stroke-linejoin="round">
+  <path d="m3.77 7.22-2.27 1.19 6.96 3.65 6.96-3.65-2.27-1.19-4.69 2.46z" stroke-width=".387" style="paint-order:fill markers stroke"/>
+  <path d="m3.77 10.6-2.27 1.19 6.96 3.65 6.96-3.65-2.27-1.19-4.69 2.46z" stroke-width=".387" style="paint-order:fill markers stroke"/>
+  <rect transform="matrix(.886 -.464 .886 .464 0 0)" x="-4.54" y="6.23" width="7.86" height="7.86" stroke-width=".427" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

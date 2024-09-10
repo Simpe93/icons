@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8" cy="8" r="7" fill="none" stroke="#444" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <path d="m11.3 4.66-4.68 2.01-2 4.68 4.68-2z" fill="none" stroke="#444"/>
+ <path transform="matrix(8.22 0 0 9.07 -51.3 -65)" d="m6.89 8.34 0.104-0.484 0.367 0.333z" fill="#444" style="paint-order:fill markers stroke"/>
+</svg>
