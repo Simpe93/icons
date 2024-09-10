@@ -18,8 +18,8 @@
 
 # simple
 ![alt Altitude](https://github.com/Simpe93/icons/blob/main/simple/altitude.svg?raw=true)
-![alt Bookmark](https://github.com/Simpe93/icons/blob/main/simple/bookmark.svg?raw=true)
-![alt Compass](https://github.com/Simpe93/icons/blob/main/simple/compass.svg?raw=true)
+![alt Bookmark](https://github.com/Simpe93/icons/blob/main/simple/bookmark.svg)
+![alt Compass](https://github.com/Simpe93/icons/blob/main/simple/compass.svg)
 ![alt Grid](https://github.com/Simpe93/icons/blob/main/simple/grid.svg?raw=true)
 ![alt Layers](https://github.com/Simpe93/icons/blob/main/simple/layers.svg?raw=true)
 
