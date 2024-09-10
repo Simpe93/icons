@@ -16,4 +16,12 @@
 ![alt Usbguard](https://github.com/Simpe93/icons/blob/main/icons/usbguard.svg?raw=true)
 ![alt User Settings](https://github.com/Simpe93/icons/blob/main/icons/user_settings.svg?raw=true)
 
+# simple
+![alt Altitude](https://github.com/Simpe93/icons/blob/main/simple/altitude.svg?raw=true)
+![alt Bookmark](https://github.com/Simpe93/icons/blob/main/simple/bookmark.svg?raw=true)
+![alt Compass](https://github.com/Simpe93/icons/blob/main/simple/compass.svg?raw=true)
+![alt Grid](https://github.com/Simpe93/icons/blob/main/simple/grid.svg?raw=true)
+![alt Layers](https://github.com/Simpe93/icons/blob/main/simple/layers.svg?raw=true)
+
+
 
